@@ -1,2 +1,1 @@
-Hi, I'm Gabriel Wollner, welcome to my portfolio!
-Projects starting with [PT] are in Portuguese, whereas the ones starting with [EN] are in English.
+Este é um projeto de visualização de dados no Power BI, de imóveis do Rio de Janeiro no Airbnb, na época do Revéillon de 2022-23.
