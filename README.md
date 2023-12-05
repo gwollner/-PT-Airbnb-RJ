@@ -7,8 +7,12 @@ Este projeto foi criado para o Curta a Metragem, uma empresa que presta serviço
 A quantidade de imóveis listados no AirBnb na época do reveillon na cidade do Rio de Janeiro é de incríveis 27.340!
 ![image](https://github.com/gwollner/-PT-Airbnb-RJ/assets/151399588/9ccef06d-5426-4e71-9262-aadd80d7bbc2)
 
-Apesar da enorme quantidade, 78% desses imóveis estão localizados em 10 bairros específicos:
-https://app.powerbi.com/groups/me/reports/dad52e77-f8bf-44a9-8f15-ef0c8bbd89aa/ReportSection?ctid=8b30b8ac-3633-48f1-8117-622a72e8c91a&pbi_source=shareVisual&visual=aa16d4efdee08dbe40a1&height=210.00&width=500.00&bookmarkGuid=8105f82c-78ff-4f29-9454-0b04dc6b7b18
+Apesar da enorme quantidade, 78% desses imóveis estão localizados em 10 bairros específicos, a maioria na zona sul e na zona oeste:
+![image](https://github.com/gwollner/-PT-Airbnb-RJ/assets/151399588/71c38dc4-0fd2-4471-a4bb-43f30eb3baff)
+
+É interessante observar como as médias de preços variam entre os bairros, e como as maiores médias de preço são de bairros litorâneos:
+![image](https://github.com/gwollner/-PT-Airbnb-RJ/assets/151399588/b77cc0ca-c7c0-4926-8d03-167841ad7978)
+
 
 
 
