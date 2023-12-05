@@ -11,7 +11,8 @@ Apesar da enorme quantidade, 78% desses imóveis estão localizados em 10 bairro
 ![image](https://github.com/gwollner/-PT-Airbnb-RJ/assets/151399588/4ad9fc9a-d835-4a1e-94f6-8ecedffee9b0)
 
 É interessante observar como as médias de preços variam entre os bairros, e como as maiores médias de preço são de bairros litorâneos:
-![image](https://github.com/gwollner/-PT-Airbnb-RJ/assets/151399588/cec09e50-b2c3-4689-b4f3-75c120fdc0b6)
+![image](https://github.com/gwollner/-PT-Airbnb-RJ/assets/151399588/19925d44-ad55-49ae-b7bf-5e3ef5917d87)
+
 
 
 
