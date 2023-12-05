@@ -8,7 +8,7 @@ A quantidade de imóveis listados no AirBnb na época do reveillon na cidade do 
 ![image](https://github.com/gwollner/-PT-Airbnb-RJ/assets/151399588/9ccef06d-5426-4e71-9262-aadd80d7bbc2)
 
 Apesar da enorme quantidade, 78% desses imóveis estão localizados em 10 bairros específicos:
-https://app.powerbi.com/groups/me/reports/dad52e77-f8bf-44a9-8f15-ef0c8bbd89aa/ReportSection?ctid=8b30b8ac-3633-48f1-8117-622a72e8c91a&pbi_source=shareVisual&visual=aa16d4efdee08dbe40a1&height=210.00&width=500.00&bookmarkGuid=173a4b3b-d543-4b4d-abe2-8b1e93b4dc21
+https://app.powerbi.com/groups/me/reports/dad52e77-f8bf-44a9-8f15-ef0c8bbd89aa/ReportSection?ctid=8b30b8ac-3633-48f1-8117-622a72e8c91a&pbi_source=shareVisual&visual=aa16d4efdee08dbe40a1&height=210.00&width=500.00&bookmarkGuid=8105f82c-78ff-4f29-9454-0b04dc6b7b18
 
 
 
