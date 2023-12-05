@@ -9,7 +9,8 @@ O mapa abaixo mostra a distribuição dos imóveis pela cidade:
 
 ![image](https://github.com/gwollner/-PT-Airbnb-RJ/assets/151399588/d80cd7cd-623e-49cd-a299-2f117c53276b)
 
-Apesar da enorme quantidade, 78% desses imóveis estão localizados em 10 bairros específicos, a maioria na zona sul e na zona oeste:
+Apesar da enorme quantidade de imóveis, 10 bairros específicos concentram 78% dos imóveis listados, a maioria na zona sul e na zona oeste.
+Isto é, apenas 22% dos imóveis ou 6,10 mil estão fora destes bairros, como mostrado abaixo:
 
 ![image](https://github.com/gwollner/-PT-Airbnb-RJ/assets/151399588/1d18fa92-a083-46c0-a292-c700c32bcfa7)
 
