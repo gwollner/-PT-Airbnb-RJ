@@ -23,7 +23,7 @@ Apesar de mais caros, são estes mesmos bairros litorâneos os mais procurados, 
 Para os anfitriões com dificuldades para alugar o imóvel, observamos o quanto é importante contar com avaliações no site. 
 Ganhar mais avaliações pode não fazer tanta diferença para os imóveis que já tem altas taxas de ocupação, mas percebemos que ganhar avaliações fazem total diferença para quem está começando ou está com dificuldade de alugar!
 
-![image](https://github.com/gwollner/-PT-Airbnb-RJ/assets/151399588/e05c81f8-b7ef-46d9-b1b5-1636d0a35172)
+![image](https://github.com/gwollner/-PT-Airbnb-RJ/assets/151399588/37f9a32e-283b-42f5-8e0d-3a51c630c1bb)
 
 Ficou curioso para ver a análise completa? Clique no link abaixo!
 
