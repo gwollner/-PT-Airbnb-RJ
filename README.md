@@ -8,7 +8,8 @@ A quantidade de imóveis listados no AirBnb na época do reveillon na cidade do 
 ![image](https://github.com/gwollner/-PT-Airbnb-RJ/assets/151399588/d80cd7cd-623e-49cd-a299-2f117c53276b)
 
 Apesar da enorme quantidade, 78% desses imóveis estão localizados em 10 bairros específicos, a maioria na zona sul e na zona oeste:
-![image](https://github.com/gwollner/-PT-Airbnb-RJ/assets/151399588/4ad9fc9a-d835-4a1e-94f6-8ecedffee9b0)
+![image](https://github.com/gwollner/-PT-Airbnb-RJ/assets/151399588/5f17c953-4d45-4089-a553-54b76a3e3a5f)
+
 
 É interessante observar como as médias de preços variam entre os bairros, e como as maiores médias de preço são de bairros litorâneos:
 ![image](https://github.com/gwollner/-PT-Airbnb-RJ/assets/151399588/19925d44-ad55-49ae-b7bf-5e3ef5917d87)
