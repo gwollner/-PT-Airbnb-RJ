@@ -6,5 +6,6 @@ Este projeto foi criado para o Curta a Metragem, uma empresa que presta serviço
 
 O dashboard pode ser acessado através do link abaixo:
 
-https://app.powerbi.com/groups/me/reports/dad52e77-f8bf-44a9-8f15-ef0c8bbd89aa/ReportSection?experience=power-bi
+https://app.powerbi.com/reportEmbed?reportId=dad52e77-f8bf-44a9-8f15-ef0c8bbd89aa&autoAuth=true&ctid=8b30b8ac-3633-48f1-8117-622a72e8c91a
+
 
