@@ -28,7 +28,7 @@ Ganhar mais avaliações pode não fazer tanta diferença para os imóveis que j
 
 Ficou curioso para ver a análise completa? Clique no link abaixo!
 
-https://app.powerbi.com/reportEmbed?reportId=dad52e77-f8bf-44a9-8f15-ef0c8bbd89aa&autoAuth=true&ctid=8b30b8ac-3633-48f1-8117-622a72e8c91a
+[Acomodações de AirBnb no Reveillon de 2022-23](https://app.powerbi.com/reportEmbed?reportId=dad52e77-f8bf-44a9-8f15-ef0c8bbd89aa&autoAuth=true&ctid=8b30b8ac-3633-48f1-8117-622a72e8c91a)
 
 Dica de uso: navegue livremente entre agrupamento por zonas, bairros com maior quantidade de imóveis listados e por todos os bairros.
 Basta clicar no gráfico e utilizar as setas no cabeçalho (parte superior do visual):
