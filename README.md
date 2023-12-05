@@ -39,7 +39,7 @@ Basta clicar no gráfico e utilizar as setas no cabeçalho (parte superior do vi
   
   Para cima: zonas
   
-  Para baixo: todos os bairros
+  Duas setas para baixo: todos os bairros
 
-
+  Para baixo: Análise detalhada - clicar na seta e depois no bairro/zona de interesse
 
