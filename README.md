@@ -31,7 +31,9 @@ https://app.powerbi.com/reportEmbed?reportId=dad52e77-f8bf-44a9-8f15-ef0c8bbd89a
 
 Dica de uso: navegue livremente entre agrupamento por zonas, bairros com maior quantidade de imóveis listados e por todos os bairros.
 Basta clicar no gráfico e utilizar as setas no cabeçalho (parte superior do visual):
-![image](https://github.com/gwollner/-PT-Airbnb-RJ/assets/151399588/f5abc82d-b203-49a7-9e86-4fef963db04c)
+
+![image](https://github.com/gwollner/-PT-Airbnb-RJ/assets/151399588/0af165e6-5228-4609-a574-ba5f53049002)
+
 
   Default: bairros com maior quantidade de imóveis listados
   
