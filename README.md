@@ -39,11 +39,11 @@ Basta clicar no gráfico e utilizar as setas no cabeçalho (parte superior do vi
 ![image](https://github.com/gwollner/-PT-Airbnb-RJ/assets/151399588/0af165e6-5228-4609-a574-ba5f53049002)
 
 
-  Default: bairros com maior quantidade de imóveis listados
+  Default: top 10 bairros com maior quantidade de imóveis listados
   
   Para cima: zonas
   
   Duas setas para baixo: todos os bairros
 
-  Para baixo: Análise detalhada - clicar na seta e depois no bairro/zona de interesse
+  Para baixo: Análise detalhada - clicar na seta e depois no bairro / zona de interesse
 
