@@ -4,10 +4,10 @@ Esta é uma análise de dados no Power BI, de imóveis do Rio de Janeiro no Airb
 
 Este projeto foi criado para o Curta a Metragem, uma empresa que presta serviços a anfitriões (hosts) de acomodações de Airbnb. O objetivo do dashboard é oferecer visibilidade acerca do mercado, com uma visão geral das acomodações na principal cidade em que a empresa atua (Rio de Janeiro), tanto para os sócios do Curta a Metragem, como para seus clientes, que também terão acesso ao dashboard interativo. O banco de dados encontrado é da época da virada do ano (Réveillon).
 
-A quantidade de imóveis listados no AirBnb na época do reveillon na cidade do Rio de Janeiro é de incríveis 27.340!
+A quantidade de imóveis listados no AirBnb na época do reveillon na cidade do Rio de Janeiro é de incríveis 27.296!
 O mapa abaixo mostra a distribuição dos imóveis pela cidade:
 
-![image](https://github.com/gwollner/-PT-Airbnb-RJ/assets/151399588/d80cd7cd-623e-49cd-a299-2f117c53276b)
+![image](https://github.com/gwollner/-PT-Airbnb-RJ/assets/151399588/4fc22f22-fcb8-4c9b-a8fa-8a6127241523)
 
 Apesar da enorme quantidade de imóveis, 10 bairros específicos concentram 78% dos imóveis listados, a maioria na zona sul e na zona oeste.
 Isto é, apenas 22% dos imóveis ou 6,10 mil estão fora destes bairros, como mostrado abaixo:
