@@ -10,23 +10,23 @@ O mapa abaixo mostra a distribuição dos imóveis pela cidade:
 ![image](https://github.com/gwollner/-PT-Airbnb-RJ/assets/151399588/4fc22f22-fcb8-4c9b-a8fa-8a6127241523)
 
 Apesar da enorme quantidade de imóveis, 10 bairros específicos concentram 78% dos imóveis listados, a maioria na zona sul e na zona oeste.
-Isto é, apenas 22% dos imóveis ou 6,10 mil estão fora destes bairros, como mostrado abaixo:
+Isto é, apenas 22% dos imóveis ou 6,10 mil estão em outros bairros, como mostrado abaixo:
 
-![image](https://github.com/gwollner/-PT-Airbnb-RJ/assets/151399588/1d18fa92-a083-46c0-a292-c700c32bcfa7)
+![image](https://github.com/gwollner/-PT-Airbnb-RJ/assets/151399588/3333ab89-97b5-45a3-b157-a7dc186bc938)
 
 É interessante observar como as médias de preços variam entre os bairros, e como as maiores médias de preço são de bairros litorâneos:
 
-![image](https://github.com/gwollner/-PT-Airbnb-RJ/assets/151399588/19925d44-ad55-49ae-b7bf-5e3ef5917d87)
+[image](https://github.com/gwollner/-PT-Airbnb-RJ/assets/151399588/10e77eeb-9343-415c-9f3f-3474155ba86f)
 
 Apesar de mais caros, são estes mesmos bairros litorâneos os mais procurados, apresentando as maiores taxas de ocupação pelos 365 dias seguintes:
 
-![image](https://github.com/gwollner/-PT-Airbnb-RJ/assets/151399588/f011a67e-b90d-41d6-89fa-1ff50cee0110)
+![image](https://github.com/gwollner/-PT-Airbnb-RJ/assets/151399588/036580cf-9282-4ac4-a185-0e259fcf1cc1)
 
 ## Recomendações para Anfitriões
 Para os anfitriões com dificuldades para alugar o imóvel, observamos o quanto é importante contar com avaliações no site. 
 Ganhar mais avaliações pode não fazer tanta diferença para os imóveis que já tem altas taxas de ocupação, mas percebemos que ganhar avaliações fazem total diferença para quem está começando ou está com dificuldade de alugar!
 
-![image](https://github.com/gwollner/-PT-Airbnb-RJ/assets/151399588/37f9a32e-283b-42f5-8e0d-3a51c630c1bb)
+![image](https://github.com/gwollner/-PT-Airbnb-RJ/assets/151399588/5af5acf4-c10e-47e2-ae3b-c14fb44204b5)
 
 ## Análise Completa
 
